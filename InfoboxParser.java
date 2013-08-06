@@ -31,8 +31,6 @@ public class InfoboxParser {
 		try {
 			//The Wikipedia URL that should parsed
 			
-			boxArray.add(wikiParser("http://de.wikipedia.org/wiki/Deutschland"));
-			
 			boxArray.add(wikiParser("http://de.wikipedia.org/wiki/Bayern"));
 			boxArray.add(wikiParser("http://de.wikipedia.org/wiki/Saarland"));
 			
